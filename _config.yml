@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "YiLu"
+title                    : "Yi Lu"
 title_separator          : "-"
-name                     : &name "YiLu"
+name                     : &name "Yi Lu"
 description              : &description "personal description"
 url                      : https://yeelou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
