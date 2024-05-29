@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student of [CITE Lab](https://cite.nju.edu.cn) at [Nanjing University](https://nju.edu.cn). I received my bachelor degree from Nanjing University of Posts and Telecommunications in 2021. My research interests are human motion capture, humanoid robot motion imitation and real-time teleoperation.
+I'm a Ph.D. student of [CITE Lab](https://cite.nju.edu.cn) at [Nanjing University](https://www.nju.edu.cn). I received my bachelor degree from Nanjing University of Posts and Telecommunications in 2021. My research interests are human motion capture, humanoid robot motion imitation and real-time teleoperation.
 
-Background
+Project
 ======
 
 
