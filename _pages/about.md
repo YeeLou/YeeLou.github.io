@@ -11,9 +11,10 @@ I'm a Ph.D. student of [CITE Lab](https://cite.nju.edu.cn) at [Nanjing Universit
 
 Research
 ======
-My research interests include human motion capture, motion understanding, human-robot interaction, humanoid robot motion control, and teleoperation.
+My research interests include human motion capture, motion understanding, human-robot interaction, humanoid robot motion control, and teleoperation. 
 
 Project
 ======
-[Robot Teleoperation](https://github.com/YeeLou/Robot-Teleoperation)
+More details can be available at [MoCapHumanoid](https://nju.do1e.cn/MoCapHumanoid/) and the [Github](https://github.com/NJU-CITE-MoCapHumanoid).
+[//]: # [Robot Teleoperation](https://github.com/YeeLou/Robot-Teleoperation)
 
