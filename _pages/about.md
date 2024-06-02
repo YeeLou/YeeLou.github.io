@@ -15,6 +15,6 @@ My research interests include human motion capture, motion understanding, human-
 
 Project
 ======
-More details can be available at [/MoCapHumanoid](https://nju.do1e.cn/shenqiu/MoCapHumanoid/) and [Github](https://github.com/NJU-CITE-MoCapHumanoid).
+More details can be available at [/MoCapHumanoid](https://www.do1e.cn/shenqiu/MoCapHumanoid/) and [Github](https://github.com/NJU-CITE-MoCapHumanoid).
 
 <!-- [Robot Teleoperation](https://github.com/YeeLou/Robot-Teleoperation) -->
