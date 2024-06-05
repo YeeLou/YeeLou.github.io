@@ -15,6 +15,6 @@ My research interests include human motion capture, motion understanding, human-
 
 Project
 ======
-More details can be available at [/MoCapHumanoid](https://www.do1e.cn/shenqiu/MoCapHumanoid/) and [Github](https://github.com/NJU-CITE-MoCapHumanoid). We look forward to your joining us and growing together. Experience with Python, pytorch, Linux, and ROS would be a plus.
+More details can be available at [/MoCapHumanoid](https://www.do1e.cn/shenqiu/MoCapHumanoid/) and [Github](https://github.com/NJU-CITE-MoCapHumanoid). We look forward to your joining us and growing together. Experience with Python, Pytorch, Linux, and ROS would be a plus.
 
 <!-- [Robot Teleoperation](https://github.com/YeeLou/Robot-Teleoperation) -->
