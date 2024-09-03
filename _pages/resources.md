@@ -1,6 +1,6 @@
 ---
 permalink: /resources/
-title: "Resources"
+# title: "Resources"
 author_profile: true
 redirect_from: 
   - /md/
