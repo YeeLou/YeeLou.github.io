@@ -37,3 +37,8 @@ redirect_from:
 | --------      |
 | [Courses](https://www.bilibili.com/video/BV1zt411G7Vn?p=1)    |
 | [Installation](https://github.com/fishros/install)    |
+
+
+| PyTorch            |
+| --------      |
+| [Tutorial](https://pytorch123.com/)    |
