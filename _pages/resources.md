@@ -30,6 +30,7 @@ redirect_from:
 | Reinforcement Learning            |
 | --------         |
 | [EasyRL](https://datawhalechina.github.io/easy-rl/#/)    |
+| [Courses](https://www.bilibili.com/video/BV125411y7hr?p=1) |
 
 
 | ROS            |
