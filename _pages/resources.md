@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /resources.html
 ---
-
+   
 Robotics
 ======
   1. [Knowledge useful in robotics](https://scaron.info/category/robotics.html)
