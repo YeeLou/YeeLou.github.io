@@ -38,7 +38,6 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  CSDN             : "https://blog.csdn.net/weixin_43498355?type=blog"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -73,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  CSDN             : "https://blog.csdn.net/weixin_43498355?type=blog"
 
 
 # Site Settings
