@@ -71,8 +71,8 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://blog.csdn.net/weixin_43498355?type=blog"
-  CSDN             : "https://blog.csdn.net/weixin_43498355?type=blog"
+  CSDN            : "https://blog.csdn.net/weixin_43498355?type=blog"
+  # CSDN             : "https://blog.csdn.net/weixin_43498355?type=blog"
 
 
 # Site Settings
