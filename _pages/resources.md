@@ -23,6 +23,7 @@ redirect_from:
 
 | Robotics            |
 | --------        |
+| [How to Learn Robotics](https://qiu6401.gitbook.io/how-to-learn-robotics) |
 | [Knowledge useful in robotics](https://scaron.info/category/robotics.html)   |
 | [A curated list of awesome robot descriptions (URDF, MJCF)](https://github.com/robot-descriptions/awesome-robot-descriptions)    |
 
@@ -37,6 +38,7 @@ redirect_from:
 | --------      |
 | [Courses](https://www.bilibili.com/video/BV1zt411G7Vn?p=1)    |
 | [Installation](https://github.com/fishros/install)    |
+| [Tutorial](https://songapore.gitbook.io/ros-tutorials)|
 
 
 | PyTorch            |
