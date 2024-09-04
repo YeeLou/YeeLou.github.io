@@ -25,6 +25,7 @@ redirect_from:
 | --------        |
 | [How to Learn Robotics](https://qiu6401.gitbook.io/how-to-learn-robotics) |
 | [Knowledge useful in robotics](https://scaron.info/category/robotics.html)   |
+| [Simulation](https://mp.weixin.qq.com/s?__biz=MzU5OTQ3MzcwMQ==&mid=2247519578&idx=1&sn=77a22241b8d480ff04da546096f527fc&chksm=feb6a610c9c12f063983aab0ce63ebb8d69393e93040b6998288ce90aa627c19886af4c1a897&scene=27) |
 | [A curated list of awesome robot descriptions (URDF, MJCF)](https://github.com/robot-descriptions/awesome-robot-descriptions)    |
 
 
