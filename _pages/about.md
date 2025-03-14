@@ -9,10 +9,26 @@ redirect_from:
 
 I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](https://cite.nju.edu.cn) at [Nanjing University](https://www.nju.edu.cn/en/). My research interests include human motion capture, motion understanding, human-robot interaction, humanoid robot motion control, and teleoperation. 
 
-<!-- Publications
+Publications
 ======
-<a id="publications"></a>
-[Publications](#publications) -->
+
+### [MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond]()
+
+Shenghao Ren, **Yi Lu**, Jiayi Huang, Jiayi Zhao, He Zhang, Tao Yu†, Qiu Shen†, Xun Cao†,
+
+CVPR, 2025
+
+[Coming Soon]
+
+
+
+### [Leveraging RGB-Pressure for Whole-body Human-to-Humanoid Motion Imitation](https://dl.acm.org/doi/abs/10.1145/3664647.3681180)
+
+**Yi Lu**, Shenghao Ren, Qiu Shen†, Xun Cao,
+
+ACM MM, 2024
+
+[Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681180)
 
 
 Project
