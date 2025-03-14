@@ -40,7 +40,7 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 1em;
   font-family: $sans-serif-narrow;
 
   a + a {
@@ -52,13 +52,48 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.3em;
+    margin-bottom: 0.1em;
     border-bottom: none;
+    line-height: 1.2; /* 调整标题的行高 */
+  }
+
+  .page__author {
+    margin-top: 0.1em; /* 调整与上一个元素之间的间距 */
+    margin-bottom: 0.1em; /* 调整与下一个元素之间的间距 */
+    line-height: 1; /* 调整标题的行高 */
+  }
+
+  .paper-url {
+    margin-top: 0.1em; /* 调整与上一个元素之间的间距 */
+    margin-bottom: 0.1em; /* 调整与下一个元素之间的间距 */
+    
+    a {
+      color: $link-color; /* 设置链接颜色 */
+      text-decoration: underline; /* 设置链接下划线 */
+      
+      &:hover {
+        color: darken($link-color, 10%); /* 设置链接悬停颜色 */
+        text-decoration: none; /* 移除悬停时的下划线 */
+      }
+    }
+  }
+
+  .venue {
+    margin-top: 0.1em; /* 调整与上一个元素之间的间距 */
+    margin-bottom: 0.1em; /* 调整与下一个元素之间的间距 */
+    font-style: italic; /* 设置字体样式为斜体 */
+  }
+
+  .page__date {
+    margin-top: 0.1em; /* 调整与上一个元素之间的间距 */
+    margin-bottom: 0.1em; /* 调整与下一个元素之间的间距 */
   }
 }
 
+
 .archive__item-excerpt {
-  margin-top: 0;
+  margin-top: 0.1em;
   font-size: $type-size-6;
 
   & + p {
@@ -75,16 +110,28 @@
 }
 
 .archive__item {
-  display: flex;
-  align-items: flex-start;
-
   .archive__item-teaser {
-    flex: 0 0 150px; /* Adjust the width as needed */
-    margin-right: 1em;
+    float: left; /* 使图片浮动到左侧 */
+    width: 360px; /* 调整图片宽度 */
+    height: 240px; /* 调整图片高度 */
+    margin-right: 1em; /* 调整图片与文字之间的间距 */
+    overflow: hidden; /* 确保图片不会超出容器 */
+    
+    img {
+      width: 100%;
+      height: 100%; /* 确保图片填满容器 */
+      object-fit: cover; /* 保持图片的比例并裁剪 */
+    }
   }
 
   .archive__item-text {
-    flex: 1;
+    overflow: hidden; /* 清除浮动 */
+    margin-top: 0.1em; /* 调整与上一个元素之间的间距 */
+    margin-bottom: 0.1em; /* 调整与下一个元素之间的间距 */
+    min-height: 10px; /* 设置文字模块的最小高度与图片高度一致 */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 垂直居中对齐文字内容 */
   }
 }
 

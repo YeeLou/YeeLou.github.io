@@ -6,6 +6,7 @@ permalink: /publication/Ren2025MotionPRO
 excerpt: '[Comming Soon]'
 date: 2025-10-01
 venue: 'CVPR'
+teaser: 'ren2025motionpro.jpg'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 # paperurl: ''
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
