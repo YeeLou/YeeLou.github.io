@@ -2,7 +2,7 @@
 title: "MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond"
 collection: publications
 author: 'Shenghao Ren, **Yi Lu**, Jiayi Huang, Jiayi Zhao, He Zhang, Tao Yu†, Qiu Shen†, Xun Cao†,'
-permalink: /publication/Ren2025MotionPRO
+permalink: /#Ren2025MotionPRO/
 excerpt: '[Comming Soon]'
 date: 2025-10-01
 venue: 'CVPR'

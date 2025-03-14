@@ -1,7 +1,7 @@
 ---
 title: "Leveraging RGB-Pressure for Whole-body Human-to-Humanoid Motion Imitation"
 collection: publications
-permalink: /publication/Lu2024Leveraging
+permalink: /#Lu2024Leveraging/
 author: '**Yi Lu**, Shenghao Ren, Qiu Shen†, Xun Cao,'
 excerpt: ''
 date: 2024-10-28
