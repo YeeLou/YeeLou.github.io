@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](https://cite.nju.edu.cn) at [Nanjing University](https://www.nju.edu.cn/en/). I'm currently focus on the research of humanoid robot motion imitation and real-time teleoperation.
+I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](https://cite.nju.edu.cn) at [Nanjing University](https://www.nju.edu.cn/en/). My research interests include human motion capture, motion understanding, human-robot interaction, humanoid robot motion control, and teleoperation. 
 
-Research
+Publications
 ======
-My research interests include human motion capture, motion understanding, human-robot interaction, humanoid robot motion control, and teleoperation. 
+<a id="publications"></a>
+[Publications](#publications)
+
 
 Project
 ======
