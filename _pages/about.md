@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Yi Lu (芦毅)"
 author_profile: true
 redirect_from: 
   - /about/
