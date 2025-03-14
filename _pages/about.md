@@ -9,10 +9,10 @@ redirect_from:
 
 I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](https://cite.nju.edu.cn) at [Nanjing University](https://www.nju.edu.cn/en/). My research interests include human motion capture, motion understanding, human-robot interaction, humanoid robot motion control, and teleoperation. 
 
-Publications
+<!-- Publications
 ======
 <a id="publications"></a>
-[Publications](#publications)
+[Publications](#publications) -->
 
 
 Project
