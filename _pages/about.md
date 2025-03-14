@@ -12,15 +12,14 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
 Publications
 ------
 
-#### [MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond](https://cvpr.thecvf.com/virtual/2025/poster/35067)
+### [MotionPRO: Exploring the Role of Pressure in Human MoCap and Beyond](https://cvpr.thecvf.com/virtual/2025/poster/35067)
 
 Shenghao Ren, **Yi Lu**, Jiayi Huang, Jiayi Zhao, He Zhang, Tao Yu†, Qiu Shen†, Xun Cao†,
 
-CVPR, 2025
+CVPR, 2025  
 
-[Coming Soon]  
 
-#### [Leveraging RGB-Pressure for Whole-body Human-to-Humanoid Motion Imitation](https://dl.acm.org/doi/abs/10.1145/3664647.3681180)
+### [Leveraging RGB-Pressure for Whole-body Human-to-Humanoid Motion Imitation](https://dl.acm.org/doi/abs/10.1145/3664647.3681180)
 
 **Yi Lu**, Shenghao Ren, Qiu Shen†, Xun Cao,
 
