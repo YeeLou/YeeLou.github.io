@@ -7,6 +7,7 @@ excerpt: ''
 date: 2024-10-28
 venue: 'ACM MM'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3664647.3681180'
+teaser: '3953273590_704e3899d5_m.jpg'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

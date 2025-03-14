@@ -74,6 +74,20 @@
   }
 }
 
+.archive__item {
+  display: flex;
+  align-items: flex-start;
+
+  .archive__item-teaser {
+    flex: 0 0 150px; /* Adjust the width as needed */
+    margin-right: 1em;
+  }
+
+  .archive__item-text {
+    flex: 1;
+  }
+}
+
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
