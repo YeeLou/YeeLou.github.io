@@ -25,6 +25,6 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
     {% include archive-single.html %}
   {% endfor %}
 </section>
-More details can be available at [webset](https://shenqiu.njucite.cn/MoCapHumanoid/), [MoCapHumanoid](https://github.com/NJU-CITE-MoCapHumanoid) and [NJU-3DI](https://github.com/NJU-3DI). We look forward to having you join us and grow together. Experience with Python, PyTorch, Linux, and ROS is a plus.
+More details can be available at [Website](https://shenqiu.njucite.cn/MoCapHumanoid/), [MoCapHumanoid](https://github.com/NJU-CITE-MoCapHumanoid) and [NJU-3DI](https://github.com/NJU-3DI). We look forward to having you join us and grow together. Experience with Python, PyTorch, Linux, and ROS is a plus.
 
 <!-- [Robot Teleoperation](https://github.com/YeeLou/Robot-Teleoperation) -->
