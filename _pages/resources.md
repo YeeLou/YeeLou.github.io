@@ -21,7 +21,7 @@ redirect_from:
   [Installation](https://github.com/fishros/install) -->
 
 
-| Robotics            |
+<!-- | Robotics            |
 | --------        |
 | [How to Learn Robotics](https://qiu6401.gitbook.io/how-to-learn-robotics) |
 | [Knowledge useful in robotics](https://scaron.info/category/robotics.html)   |
@@ -44,4 +44,4 @@ redirect_from:
 
 | PyTorch            |
 | --------      |
-| [Tutorial](https://pytorch123.com/)    |
+| [Tutorial](https://pytorch123.com/)    | -->
