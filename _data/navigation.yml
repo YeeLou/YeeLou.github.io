@@ -3,6 +3,9 @@ main:
  - title: "Publications"
    url: /#publications
 
+ - title: "Papers"
+   url: /#papers
+
  - title: "Projects"
    url: /#projects
 
