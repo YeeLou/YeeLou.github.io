@@ -23,17 +23,6 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
   <div class="list__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline">
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320326000337" target="_blank" rel="noopener">Stability Optimization in Action Imitation for Humanoid Robot</a>
-      </h2>
-      <p class="page__author"><strong>Yi Lu</strong>, Shenghao Ren, Zhiyu Jin, Qiu Shen†.</p>
-      <p><i class="venue">Journal of Visual Communication and Image Representation</i>, JVCI, 2026.</p>
-      <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320326000337" class="paper-url" target="_blank" rel="noopener">Paper</a></p>
-    </article>
-  </div>
-
-  <div class="list__item">
-    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline">
         <a href="https://arxiv.org/abs/2606.26741" target="_blank" rel="noopener">PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation</a>
       </h2>
       <p class="page__author"><strong>Yi Lu</strong>*, Shenghao Ren*, Tianyu Xiong, Zhaoxiang Li, Jiaqi Li, He Zhang, Tao Yu, Qiu Shen†, Xun Cao.</p>
@@ -68,6 +57,17 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
       </h2>
       <p class="page__author">Qingyu Fan, Zhaoxiang Li, <strong>Yi Lu</strong>, Wang Chen, Qiu Shen, Xiao-xiao Long†, Yinghao Cai†, Tao Lu, Shuo Wang, Xun Cao.</p>
       <p><a href="https://arxiv.org/abs/2601.17885" class="paper-url" target="_blank" rel="noopener">Paper</a></p>
+    </article>
+  </div>
+
+  <div class="list__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320326000337" target="_blank" rel="noopener">Stability Optimization in Action Imitation for Humanoid Robot</a>
+      </h2>
+      <p class="page__author"><strong>Yi Lu</strong>, Shenghao Ren, Zhiyu Jin, Qiu Shen†.</p>
+      <p><i class="venue">Journal of Visual Communication and Image Representation</i>, JVCI, 2026.</p>
+      <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320326000337" class="paper-url" target="_blank" rel="noopener">Paper</a></p>
     </article>
   </div>
 </section>
