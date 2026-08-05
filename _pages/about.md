@@ -60,6 +60,7 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
     </article>
   </div>
 
+  <!--
   <div class="list__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline">
@@ -70,6 +71,7 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
       <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320326000337" class="paper-url" target="_blank" rel="noopener">Paper</a></p>
     </article>
   </div>
+  -->
 </section>
 
 
