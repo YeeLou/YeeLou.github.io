@@ -55,7 +55,7 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
       <h2 class="archive__item-title" itemprop="headline">
         <a href="https://arxiv.org/abs/2601.17885" target="_blank" rel="noopener">PEAfowl: Perception-Enhanced Multi-View Vision-Language-Action for Bimanual Manipulation</a>
       </h2>
-      <p class="page__author">Qingyu Fan, Zhaoxiang Li, <strong>Yi Lu</strong>, Wang Chen, Qiu Shen, Xiao-xiao Long†, Yinghao Cai†, Tao Lu, Shuo Wang, Xun Cao.</p>
+      <p class="page__author">Qingyu Fan, Zhaoxiang Li, Jinrui Hu, <strong>Yi Lu</strong>, Wang Chen, Qiu Shen, Xiao-xiao Long, Yinghao Cai, Tao Lu, Shuo Wang, Xun Cao.</p>
       <p><a href="https://arxiv.org/abs/2601.17885" class="paper-url" target="_blank" rel="noopener">Paper</a> / <a href="https://peafowlvla.github.io/" target="_blank" rel="noopener">Project Page</a></p>
     </article>
   </div>
