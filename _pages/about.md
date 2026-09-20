@@ -23,6 +23,26 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
   <div class="list__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline">
+        <a href="https://arxiv.org/abs/2609.14432" target="_blank" rel="noopener">EMoG: Emotion-Modulated Gait Generation for Expressive Humanoid Locomotion</a>
+      </h2>
+      <p class="page__author"><strong>Yi Lu</strong>*, Tianhao Jiang*, Honglong Tian, Yumeng Zhang, Qingrui Zhao, Zhengtao Wang, Xiao-Xiao Long, Qiu Shen†, Xun Cao.</p>
+      <p><a href="https://arxiv.org/abs/2609.14432" class="paper-url" target="_blank" rel="noopener">Paper</a> / <a href="https://jtthhhh.github.io/Emog-web/#emotions" target="_blank" rel="noopener">Project Page</a></p>
+    </article>
+  </div>
+
+  <div class="list__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="https://bear-ty.github.io/Beyondretarget_page/" target="_blank" rel="noopener">BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video</a>
+      </h2>
+      <p class="page__author">Tianyu Xiong*, <strong>Yi Lu</strong>*, Jinrui Wang, Ziqi Liang, Dandan Lei, Xiaoyang Zhou, Xiao-Xiao Long, Qiu Shen†, Xun Cao.</p>
+      <p><a href="https://bear-ty.github.io/Beyondretarget_page/" target="_blank" rel="noopener">Project Page</a> / <a href="https://github.com/bear-ty/BeyondRetarget" target="_blank" rel="noopener">Code</a></p>
+    </article>
+  </div>
+
+  <div class="list__item">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
         <a href="https://arxiv.org/abs/2606.26741" target="_blank" rel="noopener">PressMimic: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation</a>
       </h2>
       <p class="page__author"><strong>Yi Lu</strong>*, Shenghao Ren*, Tianyu Xiong, Zhaoxiang Li, Jiaqi Li, He Zhang, Tao Yu, Qiu Shen†, Xun Cao.</p>
