@@ -36,7 +36,7 @@ I'm a Ph.D. student of [Computational Imaging Technology & Engineering Lab](http
         <a href="https://bear-ty.github.io/Beyondretarget_page/" target="_blank" rel="noopener">BeyondRetarget: Learning Executable Humanoid Motions Directly from Monocular Video</a>
       </h2>
       <p class="page__author">Tianyu Xiong*, <strong>Yi Lu</strong>*, Jinrui Wang, Ziqi Liang, Dandan Lei, Xiaoyang Zhou, Xiao-Xiao Long, Qiu Shen†, Xun Cao.</p>
-      <p><a href="https://bear-ty.github.io/Beyondretarget_page/" target="_blank" rel="noopener">Project Page</a> / <a href="https://github.com/bear-ty/BeyondRetarget" target="_blank" rel="noopener">Code</a></p>
+      <p><a href="https://arxiv.org/abs/2609.29850" class="paper-url" target="_blank" rel="noopener">Paper</a> / <a href="https://bear-ty.github.io/Beyondretarget_page/" target="_blank" rel="noopener">Project Page</a> / <a href="https://github.com/bear-ty/BeyondRetarget" target="_blank" rel="noopener">Code</a></p>
     </article>
   </div>
 
